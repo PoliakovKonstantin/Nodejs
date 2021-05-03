@@ -1,0 +1,10 @@
+{
+    "name": "kormf",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "bin": {
+        "datedate": "index.js"
+    },
+    "private": true
+}
